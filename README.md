@@ -17,8 +17,8 @@ I'm a passionate developer with a keen interest in creating impactful software s
 
 ## 📫 How to Reach Me
 - **GitHub:** [github.com/KaharKartik](https://github.com/KaharKartik)
-- **Email:** [your-email@example.com](mailto:kartikkahar52@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/kahar-kartik) *(Replace with your LinkedIn URL)*
+- **Email:** [your-kartikkahar52@gmail.com](mailto:kartikkahar52@gmail.com)
+- **LinkedIn:** [linkedin.com/in/kahar-kartik](https://linkedin.com/in/kahar-kartik)
 
 ## 💡 Fun Facts
 - I love contributing to open source and collaborating with the developer community.
